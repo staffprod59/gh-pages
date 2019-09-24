@@ -3,10 +3,30 @@
     <title>Full PC Games 2022</title>
     <link href="https://staffprod59.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://staffprod59.github.io/gh-pages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-09-24T20:23:41+02:00</updated>
     <author>
         <name>Staffy</name>
     </author>
     <id>https://staffprod59.github.io/gh-pages</id>
 
+    <entry>
+        <title>0AD</title>
+        <author>
+            <name>Staffy</name>
+        </author>
+        <link href="https://staffprod59.github.io/gh-pages/0ad.html"/>
+        <id>https://staffprod59.github.io/gh-pages/0ad.html</id>
+
+        <updated>2019-09-24T20:21:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                    essai
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                essai
+            ]]>
+        </content>
+    </entry>
 </feed>
